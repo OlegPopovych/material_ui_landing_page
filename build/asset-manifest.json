@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.269a4742.css",
+    "main.js": "/static/js/main.1b3cb076.js",
+    "static/js/787.e1935694.chunk.js": "/static/js/787.e1935694.chunk.js",
+    "static/media/allison-all-400-normal.woff": "/static/media/allison-all-400-normal.9085ad17aa1a6fd0cdb5.woff",
+    "static/media/allison-latin-400-normal.woff2": "/static/media/allison-latin-400-normal.1e0eeae35ed94dd378ac.woff2",
+    "static/media/allison-latin-ext-400-normal.woff2": "/static/media/allison-latin-ext-400-normal.2e9a1dfa5d107fd8d1af.woff2",
+    "static/media/allison-vietnamese-400-normal.woff2": "/static/media/allison-vietnamese-400-normal.9c5f060ce0d54e98d34e.woff2",
+    "index.html": "/index.html",
+    "main.269a4742.css.map": "/static/css/main.269a4742.css.map",
+    "main.1b3cb076.js.map": "/static/js/main.1b3cb076.js.map",
+    "787.e1935694.chunk.js.map": "/static/js/787.e1935694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269a4742.css",
+    "static/js/main.1b3cb076.js"
+  ]
+}
