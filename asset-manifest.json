@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/material_ui_landing_page/static/css/main.4dd08512.css",
+    "main.js": "/material_ui_landing_page/static/js/main.03b81812.js",
+    "static/js/787.e1935694.chunk.js": "/material_ui_landing_page/static/js/787.e1935694.chunk.js",
+    "static/media/allison-all-400-normal.woff": "/material_ui_landing_page/static/media/allison-all-400-normal.9085ad17aa1a6fd0cdb5.woff",
+    "static/media/allison-latin-400-normal.woff2": "/material_ui_landing_page/static/media/allison-latin-400-normal.1e0eeae35ed94dd378ac.woff2",
+    "static/media/allison-latin-ext-400-normal.woff2": "/material_ui_landing_page/static/media/allison-latin-ext-400-normal.2e9a1dfa5d107fd8d1af.woff2",
+    "static/media/allison-vietnamese-400-normal.woff2": "/material_ui_landing_page/static/media/allison-vietnamese-400-normal.9c5f060ce0d54e98d34e.woff2",
+    "index.html": "/material_ui_landing_page/index.html",
+    "main.4dd08512.css.map": "/material_ui_landing_page/static/css/main.4dd08512.css.map",
+    "main.03b81812.js.map": "/material_ui_landing_page/static/js/main.03b81812.js.map",
+    "787.e1935694.chunk.js.map": "/material_ui_landing_page/static/js/787.e1935694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd08512.css",
+    "static/js/main.03b81812.js"
+  ]
+}
