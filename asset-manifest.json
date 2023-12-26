@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Cats_and_friends_material_ui/static/css/main.51754de8.css",
-    "main.js": "/Cats_and_friends_material_ui/static/js/main.ece3de16.js",
-    "static/js/787.e1935694.chunk.js": "/Cats_and_friends_material_ui/static/js/787.e1935694.chunk.js",
-    "static/media/allison-all-400-normal.woff": "/Cats_and_friends_material_ui/static/media/allison-all-400-normal.9085ad17aa1a6fd0cdb5.woff",
-    "static/media/allison-latin-400-normal.woff2": "/Cats_and_friends_material_ui/static/media/allison-latin-400-normal.1e0eeae35ed94dd378ac.woff2",
-    "static/media/allison-latin-ext-400-normal.woff2": "/Cats_and_friends_material_ui/static/media/allison-latin-ext-400-normal.2e9a1dfa5d107fd8d1af.woff2",
-    "static/media/allison-vietnamese-400-normal.woff2": "/Cats_and_friends_material_ui/static/media/allison-vietnamese-400-normal.9c5f060ce0d54e98d34e.woff2",
-    "index.html": "/Cats_and_friends_material_ui/index.html",
-    "main.51754de8.css.map": "/Cats_and_friends_material_ui/static/css/main.51754de8.css.map",
-    "main.ece3de16.js.map": "/Cats_and_friends_material_ui/static/js/main.ece3de16.js.map",
-    "787.e1935694.chunk.js.map": "/Cats_and_friends_material_ui/static/js/787.e1935694.chunk.js.map"
+    "main.css": "/cats_mui/static/css/main.f7fefddd.css",
+    "main.js": "/cats_mui/static/js/main.33921105.js",
+    "static/js/787.e1935694.chunk.js": "/cats_mui/static/js/787.e1935694.chunk.js",
+    "static/media/allison-all-400-normal.woff": "/cats_mui/static/media/allison-all-400-normal.9085ad17aa1a6fd0cdb5.woff",
+    "static/media/allison-latin-400-normal.woff2": "/cats_mui/static/media/allison-latin-400-normal.1e0eeae35ed94dd378ac.woff2",
+    "static/media/allison-latin-ext-400-normal.woff2": "/cats_mui/static/media/allison-latin-ext-400-normal.2e9a1dfa5d107fd8d1af.woff2",
+    "static/media/allison-vietnamese-400-normal.woff2": "/cats_mui/static/media/allison-vietnamese-400-normal.9c5f060ce0d54e98d34e.woff2",
+    "index.html": "/cats_mui/index.html",
+    "main.f7fefddd.css.map": "/cats_mui/static/css/main.f7fefddd.css.map",
+    "main.33921105.js.map": "/cats_mui/static/js/main.33921105.js.map",
+    "787.e1935694.chunk.js.map": "/cats_mui/static/js/787.e1935694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51754de8.css",
-    "static/js/main.ece3de16.js"
+    "static/css/main.f7fefddd.css",
+    "static/js/main.33921105.js"
   ]
 }
